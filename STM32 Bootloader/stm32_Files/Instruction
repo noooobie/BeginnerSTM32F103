@@ -1,0 +1,7 @@
+## Installing the HID bootloader to STM32 devices
+
+
+1. Download the STM32Cube(https://www.st.com/en/ecosystems/stm32cube.html)
+2. After Installing Connect Your Board to STM32 Cube through serial adapter
+3. Upload the File hid_generic_pc13.bin (stm32_files -> F103 -> Low_and_medium_density(for 64k Flash Memory) -> hid_generic_pc13.bin ) and click OK
+4. Make sure to change the Jumper before plugging off the board
