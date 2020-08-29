@@ -1,4 +1,4 @@
 # stm32f103
-YOU GET STM32F103 BASIC CODES FOR BEGINERS
+Basic Codes For Beginners Using STM32F103
 
 ENJOY!!!!!
