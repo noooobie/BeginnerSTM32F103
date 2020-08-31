@@ -1,0 +1,19 @@
+Make sure that all the pins are connected accordingly !!!!
+
+Always make sure to check twice the connection (VCC and GND),So that you wont burn your components.
+
+FEEL FREE TO MAIL ME AT abin@morro.in 
+
+Usefull Links :
+
+1.STM32 - https://www.st.com/en/microcontrollers-microprocessors.html
+
+2.Arduino - https://www.arduino.cc/
+
+3.STM32F103 Board - https://www.amazon.in/dp/B01EM11KOC?ref=ppx_pop_mob_ap_share
+
+4.USB to UART TTL Serial Adapter - https://www.amazon.in/dp/B07RXYJQ7F/ref=cm_sw_r_wa_apip_Xk27tuJ82VkiH
+
+5.Ultrasonic Sensor Module - https://www.amazon.in/dp/B00YAD181I/ref=cm_sw_r_wa_api_i_6fqtFbGP9J8BD
+
+6.Jumper Wire - https://www.amazon.in/dp/B074J9CPV3/ref=cm_sw_r_wa_api_i_IgqtFbZA8BN5H
